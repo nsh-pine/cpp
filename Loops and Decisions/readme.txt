@@ -22,3 +22,5 @@
 	11		3 function calculator for old british currency (division excluded)
 
 	psp		old british currency to new and vice versa
+	
+Ref: Object-Oriented Programming in C++ Fourth Edition by Robert Lafore
