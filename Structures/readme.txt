@@ -22,8 +22,8 @@
     
     ex10                        new british system to old british system, but hey,with structures
     
-    ex11                        asks 2 time values(hh:mm:ss), converts both of them into seconds like ex09, adds them, convert the result back to
-                                this format(hh:mm:ss)
+    ex11                        asks 2 time values(hh:mm:ss), converts both of them into seconds like ex09, adds them, convert the
+                                result back to this format(hh:mm:ss)
                                 
     ex12                        +,-,*,/ calculator but with structures 
     
