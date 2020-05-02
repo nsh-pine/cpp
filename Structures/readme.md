@@ -1,4 +1,4 @@
- <h1> **Name**                    **What they do**</h1>
+<h1>Name                        What they do</h1>
 <h3>  
     ex01                        phone number
     
@@ -11,7 +11,7 @@
     
     ex05                        day month year (dd/mm/yy)
     
-    ex06                        choose l,s,.... output laborer,secretary,.... using *enumeration*
+    ex06                        choose l,s,.... output laborer,secretary,.... using _enumeration_
     
     ex07                        combination of ex 4,5,6
                                 (output in table format was unnecessary)
@@ -26,7 +26,7 @@
                                 this format(hh:mm:ss)
                                 
     ex12                        +,-,*,/ calculator but with *structures*
-    
+ </h3>   
     
     //used functions which can be taken as "illegal" since the chapter is about structures
                                 
