@@ -1,4 +1,4 @@
-	Ex		Contents
+	Ex		What they do
 
 	01		multiplication table
 
