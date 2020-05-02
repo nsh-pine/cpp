@@ -1,4 +1,4 @@
-	Name			Contents
+	Name			What they do
 	
 	34pw			power of 3 and 4 from 1 to 9
 
