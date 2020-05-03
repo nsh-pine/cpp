@@ -16,9 +16,9 @@ struct employee{
 	float sal;
 	};
 
-employee store(string name,employee temp)
+employee store(string name)
 {
-	char ck;
+	char ck;employee temp;
 	cout<<'\n';
 	cout<<name<<"'s id: ";cin>>temp.id;
 	cout<<name<<"'s salary: ";cin>>temp.sal;
@@ -52,9 +52,9 @@ void show(string name2,employee p)
 int main()
 {
 	employee kim,scott,still;
-	kim=store(a,kim);
-	scott=store(b,scott);
-	still=store(c,still);
+	kim=store(a);
+	scott=store(b);
+	still=store(c);
 	cout<<"\n\n";
 	cout<<setw(6)<<"NAME"<<setw(6)<<"ID"<<setw(10)<<"SALARY"<<setw(17)<<"DATE OF ENTRY"<<setw(9)<<"ROLE\n"<<endl;
 	show(a,kim);show(b,scott);show(c,still);
