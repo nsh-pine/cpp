@@ -1,1 +1,1 @@
-Problem solutions for Kattis, OOP books and so on.
+Problem solutions various programming problem archives.
