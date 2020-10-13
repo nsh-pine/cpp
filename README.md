@@ -1,1 +1,1 @@
-C++ files and problem solutions from Kattis, Code Forces and so on.
+Problem solutions for Kattis, OOP books and so on.
