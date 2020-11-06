@@ -1,1 +1,1 @@
-Problem solutions various programming problem archives.
+Problem solutions for various programming problem archives.
